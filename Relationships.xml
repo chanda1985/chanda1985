@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_ita_trainingcompany" />
+  <EntityRelationship Name="business_unit_ita_trainingcontact" />
+  <EntityRelationship Name="ita_ita_trainingcompany_ita_trainingcontact_Company" />
+  <EntityRelationship Name="ita_ita_trainingconfiguration_ita_creditlimit_Configuration" />
+  <EntityRelationship Name="lk_ita_creditlimit_createdby" />
+  <EntityRelationship Name="lk_ita_creditlimit_modifiedby" />
+  <EntityRelationship Name="lk_ita_trainingcompany_createdby" />
+  <EntityRelationship Name="lk_ita_trainingcompany_modifiedby" />
+  <EntityRelationship Name="lk_ita_trainingconfiguration_createdby" />
+  <EntityRelationship Name="lk_ita_trainingconfiguration_modifiedby" />
+  <EntityRelationship Name="lk_ita_trainingcontact_createdby" />
+  <EntityRelationship Name="lk_ita_trainingcontact_modifiedby" />
+  <EntityRelationship Name="organization_ita_creditlimit" />
+  <EntityRelationship Name="organization_ita_trainingconfiguration" />
+  <EntityRelationship Name="owner_ita_trainingcompany" />
+  <EntityRelationship Name="owner_ita_trainingcontact" />
+  <EntityRelationship Name="team_ita_trainingcompany" />
+  <EntityRelationship Name="team_ita_trainingcontact" />
+  <EntityRelationship Name="TransactionCurrency_ita_creditlimit" />
+  <EntityRelationship Name="TransactionCurrency_ita_trainingcompany" />
+  <EntityRelationship Name="user_ita_trainingcompany" />
+  <EntityRelationship Name="user_ita_trainingcontact" />
+</EntityRelationships>
